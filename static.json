@@ -1,0 +1,8 @@
+{
+	"headers": {
+		"/*": {
+		"X-Author": "BearStudent",
+		"Access-Control-Allow-Origin": "*"
+		}
+	}
+}
